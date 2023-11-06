@@ -1,5 +1,5 @@
-let input1 = document.querySelector("#inputBox1");
-let input2 = document.querySelector("#inputBox2");
+let input1 = document.querySelector("#input-box1");
+let input2 = document.querySelector("#input-box2");
 let buttons = document.querySelectorAll("button");
 
 let string = "";
